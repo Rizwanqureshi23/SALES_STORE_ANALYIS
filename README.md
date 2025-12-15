@@ -38,7 +38,12 @@ This data-driven approach enables the store to optimize inventory planning, make
 and enhance overall profitability.
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Dec 4, 2025, 07_10_09 PM" src="https://github.com/user-attachments/assets/d2fed368-b1dc-4a1a-823d-cbbed3f85795" />
+
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_35sewc35sewc35se" src="https://github.com/user-attachments/assets/73758e32-fa98-4ffd-8af3-5d462af4a001" />
+
+
+
 
 
 
